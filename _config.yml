@@ -1,6 +1,6 @@
 # config
-cover: //blog.ghost.org/content/images/2013/Nov/cover.png
-bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam justo turpis, tincidunt ac convallis id.'
+cover: //demo.ghost.io/content/images/2014/09/testimg-home-1.jpg
+bio: 'We know something, but we do not know more.'                        #'夏日的夜晚,只有一人的办公室和清脆的键盘声.'
 location: Location
 website: Website
 
@@ -16,8 +16,8 @@ googleplus_profile:
 fb_admins:
 fb_app_id:
 
-fancybox:
-fitvids:
+fancybox: true
+fitvids: true
 
 excerpt_link: Read More
 
