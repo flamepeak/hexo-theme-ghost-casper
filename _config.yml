@@ -16,8 +16,8 @@ googleplus_profile:
 fb_admins:
 fb_app_id:
 
-fancybox: true
-fitvids: true
+fancybox:
+fitvids:
 
 excerpt_link: Read More
 
