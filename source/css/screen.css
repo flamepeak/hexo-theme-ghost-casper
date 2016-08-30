@@ -1012,7 +1012,7 @@ margin on the iframe, cause it breaks stuff. */
 /* The details of your blog. Defined in ghost/settings/ */
 .page-title {
     margin: 10px 0 10px 0;
-    font-size: 5rem;
+    font-size: 5rem; /* first page name size */
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
@@ -1022,7 +1022,7 @@ margin on the iframe, cause it breaks stuff. */
 .page-description {
     margin: 0;
     font-size: 2rem;
-    line-height: 1.5em;
+    line-height: 1.5em; /* first page description size */
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
@@ -1069,7 +1069,7 @@ margin on the iframe, cause it breaks stuff. */
 .post {
     position: relative;
     width: 80%;
-    max-width: 710px;
+    max-width: 910px; /* post, width default 710 */
     margin: 4rem auto;
     padding-bottom: 4rem;
     border-bottom: #EBF2F6 1px solid;
@@ -1098,7 +1098,7 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 body:not(.post-template) .post-title {
-    font-size: 3.6rem;
+    font-size: 3.6rem;  /* wen dang list title size */
 }
 
 .post-title a {
@@ -1196,7 +1196,7 @@ body:not(.post-template) .post-title {
 
 .comments-area {
     width: 80%;
-    max-width: 700px;
+    max-width: 900px;  /* the default is 700*/
     margin: 4rem auto;
 }
 
