@@ -582,12 +582,12 @@ h6 {
 }
 
 a {
-    color: #FF0000;/*self change ulr color  source #4A4A4A*/
+    color: #4A4A4A;/*self change ulr color  source #4A4A4A,redFF0000*/
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #111;
+    color: #FF0000;/*self change ulr hover color  source #111,redFF0000*/
 }
 
 p, ul, ol, dl {
