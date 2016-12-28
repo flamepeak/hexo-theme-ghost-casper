@@ -1,6 +1,6 @@
 # config
 cover: //demo.ghost.io/content/images/2014/09/testimg-home-1.jpg
-bio: 'We know something, but we do not know more.'              
+bio: 'We know something, but we do not know more.'
 location: Big Country
 website: FlamePeak[AT]gmail.com
 
@@ -24,3 +24,6 @@ excerpt_link: Read More
 
 # Miscellaneous
 rss: /atom.xml
+
+# rocket_up
+rocket_up: true

@@ -11,6 +11,8 @@
       <% if (date(post.date, null) !== date(post.updated, null)) {%>
       <%- partial('post/update', {post:post}) %>
       <% } %>
+    </section>
+    <section>
       <%- post.content %>
     </section>
     <footer class="post-footer">
