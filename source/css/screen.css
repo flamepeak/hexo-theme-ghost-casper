@@ -2377,6 +2377,7 @@ pre .chunk {
    13. Table of Contents (toc)
    post.ejs: <%- partial('post/toc', {item: post, index: false}) %>
    ========================================================================== */
+/*
 .tocArticle {
   background: #eee;
   border: 1px solid #bbb;
@@ -2400,6 +2401,7 @@ pre .chunk {
       list-style-type: none; }
   .toc-child {
     margin-left: 1em;}
+*/
 /* ==========================================================================
    End of file. Animations should be the last thing here. Do not add stuff
    below this point, or it will probably fuck everything up.
